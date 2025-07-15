@@ -1,7 +1,7 @@
 function evenOrOdd(n) {
-    return "";
+    return number % 2 === o ? "even" : "odd";
 }
 
 function greeting(name) {
-    return "";
+    return "Hola, €{Name}!";
 }
